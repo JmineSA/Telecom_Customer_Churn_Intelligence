@@ -1,45 +1,68 @@
-📞 Telecom Customer Churn Intelligence Platform
-🔍 Advanced Analytics for Customer Retention Optimization
-📍 California | 👥 7,043 Customers | 📅 Q2 2023
+# 📞 **Telecom Customer Churn Intelligence Platform**  
 
-📌 Overview
-Telecom Customer Churn Intelligence is a machine learning and analytics platform designed to predict and analyze telecom customer churn.
-By leveraging XGBoost with SMOTE for class balancing, combined with actionable insights from a Power BI dashboard and a live interactive demo app, this project enables telecom businesses to reduce churn and boost retention rates.
+**🔍 Advanced Analytics for Customer Retention Optimization**  
+*📍 California | 👥 7,043 Customers | 📅 Q2 2023*  
 
-🚀 Key Features
-Predictive Modeling with XGBoost (87% accuracy)
+---
 
-SMOTE Oversampling to address class imbalance
+## 📌 **Overview**  
+**Telecom Customer Churn Intelligence** is a **machine learning and analytics platform** designed to **predict and analyze telecom customer churn**.  
 
-ROC-AUC and feature importance visualizations
+Using **XGBoost** with **SMOTE** for class balancing, combined with actionable insights from an **interactive Power BI dashboard** and a **live demo prediction app**, this project empowers telecom businesses to:  
+- **Reduce churn rates** 📉  
+- **Improve customer retention** 📈  
+- **Maximize revenue** 💰  
 
-Interactive Power BI Dashboard for business decision-making
+---
 
-Live Demo App to test predictions in real-time
+## 🚀 **Key Features**  
+✅ **Predictive Modeling** using **XGBoost** (Accuracy: **87%**)  
+✅ **SMOTE Oversampling** to solve class imbalance  
+✅ **ROC-AUC** & **Feature Importance** visualizations  
+✅ **Interactive Power BI Dashboard** for business intelligence  
+✅ **Live Demo App** to test predictions in real-time  
 
-📊 Dataset Summary
-7,043 customer profiles (Q2 2023)
+---
 
-California, USA region
+## 📊 **Dataset Summary**  
+- **7,043 customer profiles** (Q2 2023)  
+- **California, USA** region  
+- **Target Variable:** `Customer Status` → `Stayed`, `Churned`, `Joined`  
+- **Source:** [Maven Analytics Data Playground](https://mavenanalytics.io/data-playground)  
 
-Target Variable: Customer Status → Stayed, Churned, Joined
+---
 
-Source: Maven Analytics Data Playground
+## 💼 **Business Impact**  
+📌 Identify **high-risk customer segments**  
+📌 Enable **targeted retention campaigns**  
+📌 Provide **data-driven recommendations** for:  
+   - Contract improvements 📝  
+   - Service quality enhancements 📡  
+   - Value-added offerings 🎯  
 
-💼 Business Impact
-Identify high-risk customer segments
+---
 
-Enable targeted retention campaigns
+## 🔮 **Future Enhancements**  
+- 🔄 Add **LightGBM** and **CatBoost** model comparisons  
+- 🌐 Include **external datasets** for richer features  
+- ⚙️ Automate retraining via **AutoML pipelines**  
 
-Provide data-driven recommendations for contract, service, and value improvements
+---
 
-🔮 Future Enhancements
-Integrate LightGBM and CatBoost models
+## 📎 **Demo Links**  
+📊 **Power BI Dashboard:** [View Here](#)  
+💻 **Live Prediction App:** [Try It Here](#)  
 
-Expand feature set with external customer data
+---
 
-Automate retraining with AutoML pipelines
+## 🛠 **Tech Stack**  
+- **Python 3.10**  
+- **Pandas, NumPy, Matplotlib, Seaborn**  
+- **XGBoost, imbalanced-learn (SMOTE)**  
+- **Power BI**  
+- **Streamlit / Flask** (for live demo app)  
 
-📌 Demo Links:
-📊 Power BI Dashboard (link here)
-💻 Live Demo App (link here)
+---
+
+✍ **Author:** Lesiba James Kganyago  
+📅 **Year:** 2025  
