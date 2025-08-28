@@ -51,7 +51,7 @@ Using **XGBoost** with **SMOTE** for class balancing, combined with actionable i
 
 ## 📎 **Demo Links**  
 📊 **Power BI Dashboard:** [View Here](#)  
-💻 **Live Prediction App:** [Try It Here](#)  
+💻 **Live Prediction App:** [Try It Here](https://huggingface.co/spaces/jmine/Telecom_Customer_Churn_Intelligence)  
 
 ---
 
